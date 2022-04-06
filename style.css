@@ -1,8 +1,10 @@
 body{
     text-decoration: none;
 }
-
-.container{
+a{
+    text-decoration: none;
+}
+.containerM{
     padding-bottom: 80px;
 }
 .bg-color{
@@ -66,6 +68,9 @@ body{
 .card{
     border: none;
     box-shadow: 5px 5px 15px lightgray;
+}
+.shoes-size{
+    width: 35% !important;
 }
 .img-resize{
     width: 90% !important;
